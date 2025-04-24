@@ -19,7 +19,7 @@ The repository is organized as follows:
 │   ├── cleaned_Humsavar_dataset_parsed.txt
 │   ├── cleaned_Humsavar_dataset_with_preds.txt
 │   └── humsavar_no_clinvar.csv
-├── code/
+└── code/
     └── Humsavar_DataCleaning.ipynb
 ```
 
